@@ -4,6 +4,9 @@
 // Before accessing a variable, you must declare it.
 // Declaration can be made without initial value
 var variable1;
+var angka;
+
+
 
 // or with an initial value.
 // This combines both declaration and assignment.
