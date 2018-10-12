@@ -6,7 +6,7 @@
  * @param {Number} c
  */
 function badAddFn(a, b, c) {
-  return a + b + c;
+  return a + b + c +5;
 }
 
 /**
