@@ -20,6 +20,8 @@ var hello;
 var blackCat;
 var cat3;
 
+var test;
+
 // Invalid variable names
 var 1girl;
 var #person;
