@@ -16,7 +16,7 @@ let variable2 = 0;
 // 4. Names can use uppercase, lowercase, numbers, or mix of them
 
 // Valid variable names
-var hello;
+var helloooooo
 var blackCat;
 var cat3;
 
